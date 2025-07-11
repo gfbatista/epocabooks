@@ -1,6 +1,10 @@
 @import url("styles/header.css");
 @import url("styles/banner.css");
 @import url("styles/carrossel.css");
+@import url("styles/topicos.css");
+@import url("styles/contato.css");
+@import url("styles/rodape.css");
+
 
 :root {
     --background-color: #EBECEE;
@@ -8,6 +12,7 @@
     --orange: #EB9B00;
     --gradient-blue: linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%);
     --main-font: "Poppins";
+    --blue: #002F52
 }
 
 body {
